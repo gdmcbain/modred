@@ -4,7 +4,7 @@ import numpy as np
 
 from modred import parallel
 import modred as mr
-from customvector import CustomVector, CustomVecHandle, inner_product
+from .customvector import CustomVector, CustomVecHandle, inner_product
 
 
 # Create directory for output files
